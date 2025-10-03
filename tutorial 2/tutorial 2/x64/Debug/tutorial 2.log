@@ -1,0 +1,4 @@
+﻿  tutorial 2.cpp
+C:\Users\j018784o\Documents\GitHub\tutorial-2\tutorial 2\tutorial 2\tutorial 2.cpp(9,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\j018784o\Documents\GitHub\tutorial-2\tutorial 2\tutorial 2\tutorial 2.cpp(14,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  tutorial 2.vcxproj -> C:\Users\j018784o\Documents\GitHub\tutorial-2\tutorial 2\x64\Debug\tutorial 2.exe
